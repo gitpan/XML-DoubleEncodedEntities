@@ -1,0 +1,7 @@
+CHANGES
+MANIFEST
+Makefile.PL
+README
+lib/XML/DoubleEncodedEntities.pm
+t/all.t
+META.yml                                 Module meta-data (added by MakeMaker)
